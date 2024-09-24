@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "Sala A",
+        "horario_disponibilidad": "09:00-17:00",
+        "capacidad_maxima": 20
+    },
+    {
+        "nombre": "Sala B",
+        "horario_disponibilidad": "10:00-18:00",
+        "capacidad_maxima": 30
+    }
+]
